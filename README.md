@@ -3,7 +3,7 @@
 
 This repository demonstrates a Physics-Informed Neural Network (PINN) for solving 2D heat transfer equations using two different datasets (Void and Square). It leverages TensorFlow to model and solve the heat transfer problem efficiently.
 
-## 🚀 Project Overview
+## Project Overview
 - **Project Name:** Physics-Informed Neural Networks (PINNs) for Heat Transfer
 - **Technology Stack:** Python, TensorFlow, NumPy, Matplotlib
 - **Problem Solved:** Solves heat transfer equations using a neural network model constrained by physics laws.
@@ -11,7 +11,7 @@ This repository demonstrates a Physics-Informed Neural Network (PINN) for solvin
   - **Void Dataset (void.xlsx):** Represents heat transfer data for a region with a void.
   - **Square Dataset (square.xlsx):** Represents heat transfer data for a square-shaped region.
 
-## 📁 Project Structure
+## Project Structure
 ```
 Physics-Informed-Neural-Networks-PINNs/
 ├── dataset/                # Datasets used
@@ -23,19 +23,9 @@ Physics-Informed-Neural-Networks-PINNs/
 ├── README.md            # Project description
 ```
 
-## 🔧 Setup
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/Physics-Informed-Neural-Networks-PINNs.git
-   ```
-2. Install the dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-## 🚀 How to Run
+## How to Run
 - Open the Colab Notebooks (`Copy_of_Final_void(1).ipynb` and `Final_square(2).ipynb`) to see the results for each dataset.
 
-## 📊 Results
+## Results
 - The model predicts the temperature distribution accurately across the domain for each dataset.
 - Sample results are shown in the notebooks.
