@@ -34,11 +34,8 @@ Physics-Informed-Neural-Networks-PINNs/
    ```
 
 ## 🚀 How to Run
-- Open the Jupyter Notebooks (`Final_void.ipynb` and `Final_square.ipynb`) to see the results for each dataset.
+- Open the Colab Notebooks (`Copy_of_Final_void(1).ipynb` and `Final_square(2).ipynb`) to see the results for each dataset.
 
 ## 📊 Results
 - The model predicts the temperature distribution accurately across the domain for each dataset.
 - Sample results are shown in the notebooks.
-
-## 📫 Contact
-For any questions, please reach out via [LinkedIn](https://www.linkedin.com/in/your-link) or [Email](mailto:your-email@example.com).
