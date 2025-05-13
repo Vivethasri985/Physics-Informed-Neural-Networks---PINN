@@ -18,10 +18,9 @@ Physics-Informed-Neural-Networks-PINNs/
 │   ├── void.xlsx        # Void dataset
 │   └── square.xlsx      # Square dataset
 ├── codes/                 # Source code (Python scripts)
-│   ├── Final_void.ipynb        # Notebook for void dataset
-│   ├── Final_square.ipynb      # Notebook for square dataset
+│   ├── Copy_of_Final_void(1).ipynb        # Notebook for void dataset
+│   ├── Final_square(2).ipynb      # Notebook for square dataset
 ├── README.md            # Project description
-└── requirements.txt     # Dependencies (TensorFlow, NumPy, Matplotlib)
 ```
 
 ## 🔧 Setup
